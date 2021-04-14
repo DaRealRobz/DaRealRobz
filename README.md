@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DaRealRobz
+- 👀 I’m interested in Scripting
+- 🌱 I’m currently learning Scripting.
+- 💞️ I’m looking to collaborate on Roblox.
